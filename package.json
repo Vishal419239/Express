@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is Express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal419239/Express.git"
+  },
+  "keywords": [
+    "Web",
+    "Server",
+    "Express",
+    "Node",
+    "api"
+  ],
+  "author": "Vishal Lokhande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal419239/Express/issues"
+  },
+  "homepage": "https://github.com/Vishal419239/Express#readme"
+}
