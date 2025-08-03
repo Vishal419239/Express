@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Vishal419239/Express/issues"
   },
-  "homepage": "https://github.com/Vishal419239/Express#readme"
+  "homepage": "https://github.com/Vishal419239/Express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
